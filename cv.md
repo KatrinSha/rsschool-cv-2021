@@ -1,4 +1,4 @@
-# Katerina Shablovskaya
+# Katerina Shchablovskaya
 
 
 ## Contacts
@@ -32,7 +32,7 @@ Hi! I am Kate. I work as a design engineer. From school years I was interested i
     header__menu.classList.toggle("active");
     body.classList.toggle("block");
 
-  })
+})
 ```
 ***
 
