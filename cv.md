@@ -9,6 +9,7 @@
    * Telegram: ShaKate
 ***
 ## About me
+Hi! I am Kate. I work as a design engineer. From school years I was interested in IT-sphere, but possibility to start studying appeared recently. Now my goal is to get maximum knowledge about front-end development and to become an in-demand specialist to realize my potention. I am a good teamworker, I like to communicate with different people, and always I have willingness to learn.
 
 ***
 ## SKills
@@ -31,7 +32,7 @@
     header__menu.classList.toggle("active");
     body.classList.toggle("block");
 
-})
+  })
 ```
 ***
 
