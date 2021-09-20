@@ -20,7 +20,6 @@ menu_btn.forEach((el) => {
 });
 console.log("score(140 / 160)");
 console.log("Не выполненные пункты:")
-
+console.log("header main section nav footer article - 6*2  h1-h4  - 4*2=  20")
 console.log("1 CV содержит изображения - ссылки на выполненные вами проекты. ")
-
 console.log("2 есть видеорезюме автора CV на английском языке.");
