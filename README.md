@@ -1,2 +1,2 @@
-https://KatrinSha.github.io/rsschool-cv
-https://KatrinSha.github.io/rsschool-cv/cv
+https://KatrinSha.github.io/rsschool-cv-2021
+https://KatrinSha.github.io/rsschool-cv-2021/cv
